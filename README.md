@@ -5,11 +5,11 @@
 
 ## Table of Contents
 
-* [Introduction]&#40;#introduction&#41;
+* [Introduction](&#40;#introduction&#41);
 * [Build](#build)
 
 
-(## Introduction)
+## Introduction
 
 
 https://github.com/BulatRuslanovich/LolCat/assets/113189826/44a0f9b6-b092-4cd5-9b4c-4f07e18e4385
