@@ -8,7 +8,7 @@ INSTALL_DIR = $(HOME)/lolCat
 all: $(BUILD_DIR) lolcat
 
 install: $(BUILD_DIR) lolcat
-	@mkdir -p $(HOME)/LolCat/bin/
+	@mkdir -p $(INSTALL_DIR)/bin/
 	@cp $(BUILD_DIR)/lolcat $(INSTALL_DIR)/bin/
 	@rm -rf $(BUILD_DIR)
 
