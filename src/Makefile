@@ -3,7 +3,7 @@ CFLAGS ?= -std=c11 -Wall -Wextra -O3
 LIBS := -lm
 GEN_NAME = xterm256PaletteGen
 BUILD_DIR = build
-INSTALL_DIR = $(HOME)/LolCat
+INSTALL_DIR = $(HOME)/lolCat
 
 all: $(BUILD_DIR) lolcat
 
