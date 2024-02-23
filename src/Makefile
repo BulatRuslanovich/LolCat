@@ -14,7 +14,7 @@ install: $(BUILD_DIR) lolcat
 
 uninstall:
 	@if [ -d "$(INSTALL_DIR)" ]; then \
-		@rm -rf $(INSTALL_DIR); \
+		rm -rf $(INSTALL_DIR); \
 		echo "-- Uninstalling: $(INSTALL_DIR)"; \
 	else \
 		echo "-- Uninstalling: Application don't install"; \
