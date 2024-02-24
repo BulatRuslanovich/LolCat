@@ -87,7 +87,6 @@ make install
 
 ## Uninstall
 ```bash
-git clone git@github.com:BulatRuslanovich/LolCat.git
 cd LolCat/src
 make uninstall
 ```
