@@ -14,7 +14,8 @@
 ## Introduction
 
 
-https://github.com/BulatRuslanovich/LolCat/assets/113189826/44a0f9b6-b092-4cd5-9b4c-4f07e18e4385
+![307467883-44a0f9b6-b092-4cd5-9b4c-4f07e18e4385 (online-video-cutter com)](https://github.com/user-attachments/assets/fae8aab9-e6f5-4d89-96e9-9cbcc532ceff)
+
 > Установка производится в домашнюю папку $HOME/.
 ## Введение
 
